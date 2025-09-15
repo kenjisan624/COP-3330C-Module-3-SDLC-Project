@@ -13,6 +13,8 @@ Since it is very important to have interactive interface. The app displays messa
 
 Also, a resource LocalLibraryPatronsDataSave.txt has been provided if librarian needs. 
 ** Highlight: They can provide them as well, just need to load to store the values in! 
+
+
 <img src="Patrons/resources/Interface.png" width="350" >
 
 Also includes a plan which have as introduction:
