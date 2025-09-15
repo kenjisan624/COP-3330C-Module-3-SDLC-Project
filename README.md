@@ -30,4 +30,3 @@ and first name, last name, home address, and overdue fee amount.
 - Java language
 - IDE: JetBrain IntelliJ IDE
 
-- 
