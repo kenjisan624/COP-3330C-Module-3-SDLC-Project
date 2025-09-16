@@ -22,15 +22,15 @@ Also, a resource LocalLibraryPatronsDataSave.txt has been provided if librarian 
 ** An screenshot of the console based NavigationMenu **
 
 
+LMS Software Development Life Cycle Project: 
+1. introduction
+2. Requirements Definition 
+3. Requirements Gathering
+4. Implementation Plan
+5. Testing Plan
+6. Deployment 
 
-Also includes a plan which have as introduction:
-The current Software Development Plan (SDP) encapsulates the need for a software system - Library
-Management System (LMS) - for our local community library librarian. This program will allow librarians
-to manage current patron’s records efficiently. Each patron is composed of a unique 7-digit ID number
-and first name, last name, home address, and overdue fee amount.
-
-
-
+Documentation has been updated for revision as well!
 
 
 This console based app basically work with the below 3 files:
