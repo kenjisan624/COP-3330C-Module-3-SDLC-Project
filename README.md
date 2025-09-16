@@ -17,14 +17,44 @@ Also, a resource LocalLibraryPatronsDataSave.txt has been provided if librarian 
 
 <img src="Patrons/resources/Interface2.png" width="750" >
 
+** An screenshot of the console based NavigationMenu **
+
+
+
 Also includes a plan which have as introduction:
 The current Software Development Plan (SDP) encapsulates the need for a software system - Library
 Management System (LMS) - for our local community library librarian. This program will allow librarians
 to manage current patron’s records efficiently. Each patron is composed of a unique 7-digit ID number
 and first name, last name, home address, and overdue fee amount.
 
-** An screenshot of the console based NavigationMenu **
 
+This console based app basically work with the below 3 files:
+LibraryApp.java which contain the main method which will start the program
+
+<img src="Patrons/resources/folder_icon.png" width="300" >
+
+Patron.java which contains the formatting of how the user requested to be the input
+example:
+UniqueID-FirstName LastName-Addres-Overfue Fee
+1234567-Kenji Nakanishi-12107 Bellsworth Way Orlando, FL 32837-200.00
+
+<img src="Patrons/resources/folder_icon.png" width="300" >
+
+NavigationMenu.java that holds most of the methods:
+- AddingManually
+- AddingFrmTxtFile
+- RemovingByID
+- DisplayList
+- Exit
+  These methods have been tested with a sample data stored under out/Patrons_jar/LocalLibraryDataSave.txt
+  
+<img src="Patrons/resources/folder_icon.png" width="300" >
+
+
+The UML model is as follow:
+Where LibraryApp creates NavigationMenu and this Uses & Stores Patron.
+
+<img src="Patrons/resources/UML.png" width="750" >
 
 **Tools used:**
 - Java language
