@@ -29,17 +29,19 @@ and first name, last name, home address, and overdue fee amount.
 
 
 This console based app basically work with the below 3 files:
+<img src="Patrons/resources/folder_icon.png" width="200" >
 LibraryApp.java which contain the main method which will start the program
 
-<img src="Patrons/resources/folder_icon.png" width="300" >
 
+
+<img src="Patrons/resources/folder_icon.png" width="200" >
 Patron.java which contains the formatting of how the user requested to be the input
 example:
 UniqueID-FirstName LastName-Addres-Overfue Fee
 1234567-Kenji Nakanishi-12107 Bellsworth Way Orlando, FL 32837-200.00
 
-<img src="Patrons/resources/folder_icon.png" width="300" >
 
+<img src="Patrons/resources/folder_icon.png" width="200" >
 NavigationMenu.java that holds most of the methods:
 - AddingManually
 - AddingFrmTxtFile
@@ -48,13 +50,13 @@ NavigationMenu.java that holds most of the methods:
 - Exit
   These methods have been tested with a sample data stored under out/Patrons_jar/LocalLibraryDataSave.txt
   
-<img src="Patrons/resources/folder_icon.png" width="300" >
+
 
 
 The UML model is as follow:
 Where LibraryApp creates NavigationMenu and this Uses & Stores Patron.
 
-<img src="Patrons/resources/UML.png" width="750" >
+<img src="Patrons/resources/UML.png" width="900" >
 
 **Tools used:**
 - Java language
