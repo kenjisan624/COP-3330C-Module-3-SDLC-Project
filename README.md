@@ -15,7 +15,7 @@ Also, a resource LocalLibraryPatronsDataSave.txt has been provided if librarian 
 ** Highlight: They can provide them as well, just need to load to store the values in! 
 
 
-<img src="Patrons/resources/Interface.png" width="350" >
+<img src="Patrons/resources/Interface2.png" width="350" >
 
 Also includes a plan which have as introduction:
 The current Software Development Plan (SDP) encapsulates the need for a software system - Library
