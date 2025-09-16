@@ -32,19 +32,19 @@ This console based app basically work with the below 3 files:
 
 
 <img src="Patrons/resources/folder_icon.png" width="200" >
-LibraryApp.java which contain the main method which will start the program
+**LibraryApp.java** which contain the main method which will start the program
 
 
 
 <img src="Patrons/resources/folder_icon.png" width="200" >
-Patron.java which contains the formatting of how the user requested to be the input
+**Patron.java** which contains the formatting of how the user requested to be the input
 example:
 UniqueID-FirstName LastName-Addres-Overfue Fee
 1234567-Kenji Nakanishi-12107 Bellsworth Way Orlando, FL 32837-200.00
 
 
 <img src="Patrons/resources/folder_icon.png" width="200" >
-NavigationMenu.java that holds most of the methods:
+**NavigationMenu.java** that holds most of the methods:
 - AddingManually
 - AddingFrmTxtFile
 - RemovingByID
